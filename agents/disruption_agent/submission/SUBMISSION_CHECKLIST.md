@@ -12,7 +12,9 @@ Branch: assignment-2-disruption
 - [x] Original instruction version and timing revision diff preserved in records/revision_evidence.
 - [x] Rebuilt final prompt packets preserved in records/revision_evidence; original work ignore rules unchanged.
 - [x] Supplied validator passed for all four responses; schema checks passed; frozen core intact.
-- [ ] GitHub push remains BLOCKED BY AUTHENTICATION, NOT COMPLETED. Remote branch matching has not been verified.
+- [x] GitHub website upload to main at 734ce5d succeeded, as confirmed by Mei Qiong Xue. It is a snapshot with separate history.
+- [x] Original push of assignment-2-disruption remains blocked by authentication and was not completed. Local development history is preserved in the Git bundle; no claim is made that those commits were pushed.
+- [ ] Upload these corrected submission records to GitHub if the website snapshot is to include this update. Remote contents and ancestry have not been independently verified.
 - [ ] Upload the required deliverables to Brightspace and complete the team handoff.
 
 The completed scaffold ZIP and updated full-history Git bundle are delivered separately outside the repository after the final commit. The ZIP contains working files, reports, and revision evidence without .git. The bundle preserves all local refs and commit history. No validated local clinical/economic results or supported disruption arrival forecast are claimed; one conversational rerun does not establish repeatability.

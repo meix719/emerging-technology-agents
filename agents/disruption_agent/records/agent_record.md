@@ -5,7 +5,9 @@
 - Agent / assignment: Emerging Technology Disruption Agent; MASY1-GC 1800 Assignment 2.
 - Repository: https://github.com/meix719/emerging-technology-agents.git
 - Local branch: assignment-2-disruption.
-- GitHub push status: BLOCKED BY AUTHENTICATION, NOT COMPLETED. The HTTPS push failed because this environment had no usable GitHub credentials. No successful push or local/remote commit match has been verified. Local commits and this record do not establish remote synchronization.
+- Original push: BLOCKED BY AUTHENTICATION, NOT COMPLETED. The HTTPS push of assignment-2-disruption failed; the local development commits were not pushed.
+- GitHub website snapshot: successful upload to main at commit 734ce5d, confirmed by Mei Qiong Xue. This created a separate history from assignment-2-disruption. The Git bundle preserves the local branches and development history. Remote contents and ancestry have not been independently verified.
+- Submission correction: these updated records postdate the website snapshot and must be uploaded separately to update GitHub.
 - Before-testing scaffold/instructions commit: 16cbea748b60f7beb8a1c0017afd3041b7650285.
 - Case-input commit: a40a5f7fa3a0f8c47e9ed86fe43006f228ef3ca4.
 - Preserved v1 response commit: 9a34e0f0c49eaabc06854bfc0813428000a629e6.

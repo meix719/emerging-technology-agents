@@ -8,4 +8,8 @@ Original case inputs, v1/v2 responses, and specialist instructions unchanged.
 Readable primary report preserves every original v2 scalar field and source qualification.
 Reviewed independent judgment and verification note preserved; Craft Gained exact text, 74 words.
 All final pages rendered and visually inspected: Agent Record 4 pages; primary output 6 pages; student document 2 pages.
-GitHub push BLOCKED BY AUTHENTICATION, NOT COMPLETED.
+Original development-branch push BLOCKED BY AUTHENTICATION, NOT COMPLETED.
+User-confirmed website upload: GitHub main snapshot 734ce5d, separate history.
+Local assignment-2-disruption history preserved in Git bundle; development commits were not pushed.
+These corrected records postdate the website snapshot; no remote content or ancestry match independently verified.
+GitHub-status correction: Agent Record Word/PDF regenerated; all 4 pages visually inspected. All four response validators and frozen-core check passed again.
