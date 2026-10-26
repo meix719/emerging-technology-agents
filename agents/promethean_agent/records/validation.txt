@@ -1,0 +1,5 @@
+primary: VALIDATION PASSED
+contrast_1: VALIDATION PASSED
+contrast_2: VALIDATION PASSED
+FROZEN CORE INTACT
+No extra top-level fields in the three outputs. Full external jsonschema validation unavailable; package not installed.

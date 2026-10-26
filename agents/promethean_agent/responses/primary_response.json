@@ -1,0 +1,59 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Technology significance and contextual management implications",
+    "version": "0.2.0-draft"
+  },
+  "analytical_question": "Is Level 4 autonomous driving incremental, breakthrough or potentially Promethean, and how much should this influence the specified 12-month taxi-service decision?",
+  "general_et_finding": "Scope: integrated Level 4 driving systems in a defined ODD; prospective mode. Best-supported classification: BREAKTHROUGH within demonstrated operating conditions, with moderate confidence in this bounded classification. Potential Promethean significance remains an unproven hypothesis. Barrier statement: before this technology, ordinary taxi road operation required a human to perform the driving task; passengers themselves did not have to drive. Driverless service changes that operating requirement in supported conditions. Suppression test: the reviewed evidence does not establish that multiple societal sectors have become durably dependent on driverless systems; human-driven transport remains a plausible substitute, with capacity and transition costs. This is an inference, not a measured nationwide counterfactual. The dissolution gate is therefore unconfirmed and a higher classification is not justified. Diagnostic review, not a scored Promethean pass: tenfold improvement in overall cost/access is unknown; cross-sector civilizational restructuring is unestablished; the operating assumption changes locally; wider catalytic effects are plausible; democratization depends on fares, accessibility and coverage; irreversibility is unproven. Strongest higher-classification argument: road mobility could become less dependent on human driving labor, enabling new services. Strongest objection: observed driverless capability and bounded safety benefits do not establish that broader dissolution or durable societal restructuring.",
+  "evidence": [
+    {
+      "claim": "A retrospective study analyzes 56.7 million Waymo rider-only miles through January 2025 and reports lower crash rates than matched human benchmarks for the examined aggregate injury outcomes.",
+      "source_or_reference": "Kusano et al., Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks at 56.7 Million Miles. https://arxiv.org/abs/2505.01515",
+      "date_or_recency": "Submitted 2025-05-02; data through 2025-01; abstract inspected 2026-10-22",
+      "evidence_type": "Original research abstract; developer-authored observational analysis",
+      "notes": "Supports bounded driverless capability and safety evidence; not every operator, geography, condition, or current software version. Full methods not audited in this draft."
+    },
+    {
+      "claim": "Recall 25E-034 documents collisions involving chains and gates; the affected fleet received updated software.",
+      "source_or_reference": "Waymo manufacturer submission hosted by NHTSA, Part 573 Safety Recall Report 25E-034. https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25E034-2471.PDF",
+      "date_or_recency": "2025-05-12 submission; inspected 2026-10-22",
+      "evidence_type": "Original manufacturer recall filing in regulator archive",
+      "notes": "Demonstrates specific historical failure modes and remediation; not proof of an unresolved defect today or an exhaustive current recall inventory."
+    },
+    {
+      "claim": "NHTSA distinguishes ADS from Level 2 assistance and cautions about interpreting crash data, including exposure differences.",
+      "source_or_reference": "NHTSA Standing General Order on Crash Reporting. https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
+      "date_or_recency": "Live page inspected 2026-10-22",
+      "evidence_type": "Regulator guidance and reporting framework",
+      "notes": "Use comparable exposure and ODD evidence; raw crash totals cannot rank safety."
+    },
+    {
+      "claim": "The CPUC authorizes drivered and driverless passenger service programs and publishes quarterly reporting requirements.",
+      "source_or_reference": "CPUC Autonomous Vehicle Programs and AV Program Quarterly Reporting. https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/",
+      "date_or_recency": "Program page and reporting search results inspected 2026-10-22",
+      "evidence_type": "Regulator program descriptions",
+      "notes": "Supports existence of regulated service programs. No permit-level or trip-data audit performed; does not establish permission for these hypothetical cases."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Developer-authored retrospective safety evidence concerns a particular system and exposure; generalization requires additional evidence.",
+    "Historical recall demonstrates failure modes but includes remediation; current recall status was not exhaustively audited.",
+    "No verified all-in cost, tenfold access improvement, rural route validation, equitable access or irreversible cross-sector dependence is supplied."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in a bounded breakthrough classification; low confidence in any forecast of civilizational effects. Pilot suitability is conditional and not safety approval.",
+  "value_opportunity_implication": "Potential service availability and operational learning; cost savings and access improvements are hypotheses to test.",
+  "risk_governance_implication": "Maintain human accountability, independent safety review, emergency response, accessible alternatives, privacy controls, and a workforce transition plan. Confirm current jurisdiction-specific permissions.",
+  "change_monitoring_triggers": [
+    "Classification: credible evidence of durable cross-sector restructuring dependent on driverless transport, and demonstrable broad access or substantial comparable performance gains.",
+    "Application: independently reviewed route/weather safety evidence, verified vendor support, current permissions, accessible service and sustainable all-in economics.",
+    "Pause or reassess a pilot after serious incidents, material service failures or vendor/ODD changes."
+  ],
+  "abstention_or_more_information_needed": [
+    "No deployment authorization, safety certification or exact ROI finding is possible from this evidence packet.",
+    "Obtain route-specific ODD evidence, vendor terms, permits, support arrangements, accessibility assessment and comparison with human-driven service."
+  ],
+  "application_finding": "The application could materially change taxi operations by removing the onboard driving task within vendor-supported conditions. It does not establish autonomous driving everywhere.",
+  "organization_specific_finding": "The urban operator has assumed capacity for diligence and a limited experiment; it has not demonstrated vendor or regulatory readiness.",
+  "recommendation_management_implication": "Fund bounded vendor and route diligence now; consider a limited pilot only after independent safety, permission, accessibility, support and cost checks. Retain existing service and fallback capacity."
+}

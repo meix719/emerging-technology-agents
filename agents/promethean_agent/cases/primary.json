@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Integrated SAE Level 4 autonomous driving systems within a defined ODD",
+  "intended_application": "Driverless taxi passenger service",
+  "industry_sector": "U.S. passenger transportation",
+  "users_stakeholders": "Passengers, pedestrians, cyclists, drivers, displaced workers, dispatchers, emergency responders, regulators",
+  "risk_consequence_context": "Potential serious road injury, operational interruption, inaccessible service, privacy and workforce consequences",
+  "time_horizon": "12-month management decision horizon",
+  "additional_context": "Hypothetical teaching scenario. Use records/evidence.json, evidence review date 2026-10-22. Do not infer route coverage, permits, pricing, or readiness from the scenario.",
+  "organization": "Hypothetical large urban taxi operator",
+  "business_need": "Evaluate service expansion and reduce dependence on driver availability",
+  "adoption_posture": "Moderate; bounded experimentation",
+  "capabilities_constraints": "Existing fleet operations, dispatch, maintenance and budget for vendor diligence; vendor route coverage, permissions, all-in costs and emergency support remain unverified",
+  "management_question": "Should management fund diligence and prepare a limited vendor-partner driverless pilot rather than replace the fleet?"
+}

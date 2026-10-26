@@ -1,0 +1,44 @@
+[
+  {
+    "claim": "A retrospective study analyzes 56.7 million Waymo rider-only miles through January 2025 and reports lower crash rates than matched human benchmarks for the examined aggregate injury outcomes.",
+    "source_or_reference": "Kusano et al., Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks at 56.7 Million Miles. https://arxiv.org/abs/2505.01515",
+    "date_or_recency": "Submitted 2025-05-02; data through 2025-01; abstract inspected 2026-10-22",
+    "evidence_type": "Original research abstract; developer-authored observational analysis",
+    "notes": "Supports bounded driverless capability and safety evidence; not every operator, geography, condition, or current software version. Full methods not audited in this draft."
+  },
+  {
+    "claim": "Recall 25E-034 documents collisions involving chains and gates; the affected fleet received updated software.",
+    "source_or_reference": "Waymo manufacturer submission hosted by NHTSA, Part 573 Safety Recall Report 25E-034. https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25E034-2471.PDF",
+    "date_or_recency": "2025-05-12 submission; inspected 2026-10-22",
+    "evidence_type": "Original manufacturer recall filing in regulator archive",
+    "notes": "Demonstrates specific historical failure modes and remediation; not proof of an unresolved defect today or an exhaustive current recall inventory."
+  },
+  {
+    "claim": "NHTSA distinguishes ADS from Level 2 assistance and cautions about interpreting crash data, including exposure differences.",
+    "source_or_reference": "NHTSA Standing General Order on Crash Reporting. https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting",
+    "date_or_recency": "Live page inspected 2026-10-22",
+    "evidence_type": "Regulator guidance and reporting framework",
+    "notes": "Use comparable exposure and ODD evidence; raw crash totals cannot rank safety."
+  },
+  {
+    "claim": "The CPUC authorizes drivered and driverless passenger service programs and publishes quarterly reporting requirements.",
+    "source_or_reference": "CPUC Autonomous Vehicle Programs and AV Program Quarterly Reporting. https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/",
+    "date_or_recency": "Program page and reporting search results inspected 2026-10-22",
+    "evidence_type": "Regulator program descriptions",
+    "notes": "Supports existence of regulated service programs. No permit-level or trip-data audit performed; does not establish permission for these hypothetical cases."
+  },
+  {
+    "claim": "Waymo publicly offers autonomous ride-hailing service in selected service areas.",
+    "source_or_reference": "Waymo service page. https://waymo.com/rides/",
+    "date_or_recency": "Inspected 2026-10-23",
+    "evidence_type": "Original operator service description",
+    "notes": "Supports existing commercial service; not proof of coverage, partnership availability or approval for the hypothetical organization."
+  },
+  {
+    "claim": "Tesla describes Cybercab as having no steering wheel, accelerator pedal or brake pedal.",
+    "source_or_reference": "Tesla Cybercab Overview. https://www.tesla.com/robotaxi/riderguides/cybercab/en_us/GUID-669E83C2-E7DE-40F4-9DBD-C9A32E7F6DFF.html",
+    "date_or_recency": "Official overview retrieved in search on 2026-10-23",
+    "evidence_type": "Manufacturer vehicle-design description",
+    "notes": "Illustrates artifact-level reliance on automation, not societal irreversibility or independently verified universal capability."
+  }
+]
