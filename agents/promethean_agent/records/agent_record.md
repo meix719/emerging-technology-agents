@@ -5,7 +5,13 @@ Assignment: 4 Promethean Technology Classification Agent
 Date: 2026-10-23
 Version: 0.2.0-draft
 Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0
-GitHub repository / branch / commit: not connected or recorded in this draft. No remote commit claimed.
+GitHub repository: https://github.com/meix719/emerging-technology-agents
+
+Branch: main
+
+Agent snapshot commit: 1a18256
+
+Agent folder: agents/promethean_agent
 
 Purpose: classify significance without converting technological importance into automatic adoption advocacy.
 Technology: integrated Level 4 autonomous driving systems within a defined ODD.
