@@ -1,0 +1,7 @@
+primary: VALIDATION PASSED
+contrast_1: VALIDATION PASSED
+contrast_2: VALIDATION PASSED
+Full input/output JSON Schema validation: 3/3 passed
+Reasoning review: stable technology/application evidence; changed organizational action; aggressive posture cannot bypass safety gate. Passed in these 3 saved runs, not a statistical reliability estimate.
+FROZEN CORE INTACT
+Provenance: generated prompt packets read in the same ChatGPT conversation; responses reasoned and saved by ChatGPT. No API call, separate model, real hospital experiment or blinded evaluation.

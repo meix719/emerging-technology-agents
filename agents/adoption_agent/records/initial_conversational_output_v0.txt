@@ -1,0 +1,7 @@
+Preserved actual pre-build conversational output, 2026-11-06. Not a formal scaffold run.
+
+"Begin a limited pilot if convincing safety evidence, trained staff, and safeguards are already in place."
+"Defer until evidence from comparable hospitals and internal capabilities support a pilot."
+
+Observed weakness: these conclusions were conditional but did not operationalize convincing evidence or hospital comparability. They could be misread as evidence that such readiness had already been verified. They also did not specify a functional recovery endpoint distinct from discharge speed.
+Revision: v1.1 requires source-backed comparisons, distinguishes assumptions from facts, specifies patient-centred recovery measures and prelaunch gates, and preserves the organizational-readiness boundary.

@@ -1,0 +1,69 @@
+{
+  "agent": {
+    "name": "Emerging Technology Adoption Agent",
+    "specialty": "Contextual emerging technology adoption decisions",
+    "version": "1.1-2026-11-06"
+  },
+  "analytical_question": "Should this hospital use Mako-assisted primary elective total knee replacement now to achieve faster functional recovery without compromising patient safety?",
+  "general_et_finding": "Technical maturity: a clinically used surgeon-controlled platform, not an autonomous prototype. Diffusion demonstrates use, not superior patient value. Comparative evidence does not establish a consistent recovery advantage. General evidence is identical across these hypothetical hospitals (S1-S4).",
+  "application_finding": "For primary elective total knee replacement, the relevant benefit is earlier walking and return to daily activities, not alignment accuracy alone. Conventional knee replacement with rehabilitation remains the comparator. Same eligibility and rehabilitation should be retained where appropriate; partial-knee and other-platform findings are not direct proof for this application.",
+  "organization_specific_finding": "Hospital B has assumed deficits in training capacity, proctoring, outcome measurement and support. These create implementation risk independent of unchanged technology evidence. The resource constraint, not a claim that the robot is less mature here, drives deferral. Its conservative posture reinforces the need for documented feasibility.",
+  "evidence": [
+    {
+      "claim": "NICE permits specified systems under evidence-generation conditions, rather than endorsing unrestricted routine adoption. Staff training is required.",
+      "source_or_reference": "S1 | NICE HTG743, Recommendations | https://www.nice.org.uk/guidance/htg743/chapter/1-Recommendations",
+      "date_or_recency": "Published 2025-04-17; retrieved 2026-11-06",
+      "evidence_type": "Official health technology guidance",
+      "notes": "England/NHS context. Search-indexed page text retrieved; direct fetch returned 403. Regulatory and local permissions must be verified for the specific system."
+    },
+    {
+      "claim": "NICE found more precise alignment but uncertain translation into better patient outcomes; evidence differs across systems and procedures.",
+      "source_or_reference": "S2 | NICE HTG743, Committee discussion | https://www.nice.org.uk/guidance/htg743/chapter/3-Committee-discussion",
+      "date_or_recency": "Published 2025-04-17; retrieved 2026-11-06",
+      "evidence_type": "Official evidence assessment",
+      "notes": "Do not transfer results from partial replacement or another platform without qualification."
+    },
+    {
+      "claim": "The RACER-Knee randomized trial reported no meaningful 12-month patient benefit for Mako compared with conventional instruments and similar observed safety profiles.",
+      "source_or_reference": "S3 | Parsons et al., Lancet 2026;408:924-934; doi:10.1016/S0140-6736(26)00986-4 | https://pubmed.ncbi.nlm.nih.gov/42624811/",
+      "date_or_recency": "Published 2026-09-05; retrieved 2026-11-06",
+      "evidence_type": "Multicentre randomized trial abstract",
+      "notes": "Search-indexed abstract reviewed. A correction dated 2026-10-24 is indexed (doi:10.1016/S0140-6736(26)02109-4); correction text was not retrieved. Use qualitative conclusion provisionally, not a numerical procurement threshold."
+    },
+    {
+      "claim": "The trial team reports comparable walking and early pain outcomes and higher resource use for robotic surgery in RACER-Knee.",
+      "source_or_reference": "S4 | University of Warwick, trial-team release | https://warwick.ac.uk/news/pressreleases/robotic-assisted-knee/",
+      "date_or_recency": "Published 2026-08-21; retrieved 2026-11-06",
+      "evidence_type": "Original research institution report",
+      "notes": "Full page read. Corroborates S3 but is the same trial, not independent replication; predates indexed correction. Manufacturer supported additional robotic procedure costs."
+    },
+    {
+      "claim": "A 68-patient single-centre ROSA randomized trial reported some early pain and flexion benefits, with no reported adverse events in its small sample.",
+      "source_or_reference": "S5 | Neira et al., Knee 2026;61:104457; doi:10.1016/j.knee.2026.104457 | https://pubmed.ncbi.nlm.nih.gov/42000386/",
+      "date_or_recency": "Online 2026-04-17; retrieved 2026-11-06",
+      "evidence_type": "Randomized trial abstract",
+      "notes": "Different platform and setting; cannot establish Mako benefit or rule out rare harm. Pain/flexion are not direct proof of earlier independent daily activities."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "S5 reports favourable early outcomes for ROSA, but does not establish Mako benefit or earlier daily-activity independence.",
+    "S3 has an indexed correction whose contents could not be verified; resolve it before a consequential decision. S4 is not an independent replication.",
+    "No real hospital audit, training register, signed regulatory review, price quotation or local dataset was supplied. Cases are hypothetical.",
+    "A small pilot cannot establish equivalence for rare serious complications or long-term revision rates."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in the bounded management posture; low confidence in a local faster-recovery benefit. Evidence applicability, rare harms, source correction, actual readiness and total cost remain unresolved.",
+  "value_opportunity_implication": "Faster functional recovery is the student-selected value test, not an established benefit. Compare a limited research commitment with conventional surgery plus rehabilitation/process improvements. Do not claim ROI without full cost and outcome data. Avoid irreversible procurement commitments; clinical harm itself is not reversible.",
+  "risk_governance_implication": "Patient safety is a gate. Clinical governance must approve safety evidence, device permissions, credentialing, consent, backup and protocol before patient enrolment. Pause new pilot enrolment for an unexpected serious complication or repeated equipment failures and investigate; clinical care continues. Restart only with authorized review. Organizational Adoption Agent verifies training, ownership, support and workflows.",
+  "recommendation_management_implication": "DEFER patient implementation. Continue conventional total knee replacement and rehabilitation. Assign the orthopaedic service lead to review comparable-centre evidence and obtain a funded training, support and data plan within 90 days. Non-patient simulation or workflow PoC may prepare capability, but does not prove clinical safety. Move to a bounded experiment only after those gaps and all safety/permission gates close. A smaller hospital is not categorically excluded: reassess if capabilities improve. Resist both FOMO-driven purchasing and indefinite fear-based rejection.",
+  "change_monitoring_triggers": [
+    "Review in 90 days, or sooner after a safety alert, new relevant comparative study, corrected trial report or material readiness change.",
+    "Before any patient pilot, confirm comparable-centre safety applicability, completed platform-specific training, approved governance/permissions, backup and budget.",
+    "Before expansion, require clinically meaningful earlier walking and daily-activity recovery against conventional care, acceptable safety evidence and a justified total-cost premium. A null safety test or short discharge time is insufficient.",
+    "Suspend new enrolment after the student-selected serious-complication or repeated-equipment-failure trigger; clinicians define operational thresholds before launch."
+  ],
+  "abstention_or_more_information_needed": [
+    "Obtain corrected RACER-Knee report and refresh current guidance and platform authorization.",
+    "Provide local baseline outcomes, comparable-centre risk-adjusted results, training/proctoring records, maintenance/backup plan, full costs and applicable clinical approvals.",
+    "Clinical/statistical reviewers must set meaningful recovery difference, safety margins, sample size, allocation and stop/restart definitions."
+  ]
+}
