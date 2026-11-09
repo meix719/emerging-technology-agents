@@ -1,0 +1,11 @@
+# Independent judgment
+
+Patient safety should be the main factor in adopting robotic-assisted total knee replacement. I support planning a limited pilot at a teaching hospital only after convincing safety evidence from comparable hospitals, trained surgeons and appropriate safeguards are verified. A smaller community hospital should defer until those conditions and the necessary internal capabilities are in place. Both should pause new pilot enrolment and investigate unexpected serious complications or repeated equipment failures. The main uncertainty is whether the robotic system helps patients return to walking and normal daily activities sooner than conventional surgery without compromising safety. Wider adoption at a higher cost should require comparative evidence of a clinically meaningful recovery improvement and acceptable safety, supported by a local cost assessment. Better alignment or shorter hospital stays alone would not meet my standard. I would reconsider deferral when relevant safety evidence and readiness gaps are resolved; I would reconsider expansion when the recovery and cost conditions are met.
+
+# AI/verification note
+
+ChatGPT helped translate my stated priorities into decision rules, inspect and specialize the scaffold, develop hypothetical contrast cases, retrieve sources, generate structured analyses and package the work. The workflow reviewed NICE guidance, research abstracts and the trial institution's report rather than relying only on model memory. Local scripts checked response structure and frozen-core integrity. Hospital capabilities are assumptions, and no patient outcomes were invented. One indexed trial correction could not be retrieved; this remains an explicit verification gap. These checks do not constitute clinical validation.
+
+# Craft Gained - draft for student review
+
+I learned that a benefit must be defined in a way that matches the adoption decision. During this work, I changed my preferred benefit from fewer repeat surgeries to faster recovery. The evidence review and agent revision then distinguished earlier walking and normal daily activities from better implant alignment or shorter hospital stays. Next time, I will define the patient outcome before judging the technology and require a relevant comparison, while keeping safety as a separate gate.
