@@ -1,0 +1,60 @@
+{
+  "agent": {
+    "name": "Organizational Adoption of Emerging Technologies Agent",
+    "specialty": "Organizational readiness, absorption, governance, and sustainability",
+    "version": "1.0-assignment7-2026-11-13"
+  },
+  "analytical_question": "Can this hospital absorb, govern and sustain a bounded Mako-assisted elective TKR evaluation independently of whether the technology has established clinical/economic value?",
+  "general_et_finding": "Mako is an established surgeon-controlled orthopaedic robotic-assistance platform requiring patient-specific CT planning; NHS use is conditionally supported within NICE evidence generation rather than unconditional routine-use endorsement. Organizational differences do not change these external facts.",
+  "application_finding": "For elective primary TKR in advanced knee osteoarthritis, alignment/planning precision is not itself proof of faster functional recovery. The 2026 RACER-Knee randomized trial found no clinically meaningful 12-month patient benefit and greater cost than conventional TKR; the application comparative value remains conditional and needs locally justified evidence generation, not benefit claims based on robotics generally.",
+  "evidence": [
+    {
+      "claim": "NICE permits Mako and selected robotic-assisted systems for hip/knee replacements during evidence generation with specified conditions.",
+      "source_or_reference": "NICE HTG743, https://www.nice.org.uk/guidance/htg743/chapter/1-Recommendations",
+      "date_or_recency": "17 April 2025",
+      "evidence_type": "original national guidance",
+      "notes": "Guidance does not establish a specific hospital's permissions."
+    },
+    {
+      "claim": "Service adoption needs planned workforce, procurement, training and clinical governance arrangements.",
+      "source_or_reference": "NHS England/GIRFT robotic-assisted surgery implementation guide (2025)",
+      "date_or_recency": "July 2025",
+      "evidence_type": "original NHS implementation guidance",
+      "notes": "Specific local closure evidence still required."
+    },
+    {
+      "claim": "Robotic-assisted knee replacement did not establish clinically important 12-month outcome advantage at a higher cost.",
+      "source_or_reference": "Parsons et al., RACER-Knee randomized trial, The Lancet (2026)",
+      "date_or_recency": "2026",
+      "evidence_type": "randomized clinical trial",
+      "notes": "External application-level counterevidence, constant across hospitals."
+    },
+    {
+      "claim": "Hospital staffing, infrastructure, training and budget details are hypothetical assessment inputs.",
+      "source_or_reference": "Student-constructed Hospital A/B/C organizational profiles",
+      "date_or_recency": "13 November 2026",
+      "evidence_type": "case assumption",
+      "notes": "Do not mistake these for validated real hospital records."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "RACER-Knee supplies contrary outcome/economic evidence: clinical benefit and cost-effectiveness must not be presumed.",
+    "Hospital cases are hypothetical; no local staff training records, signed committee approval, funded service plan or service contract was examined.",
+    "External guidance is not proof of local compliance."
+  ],
+  "value_opportunity_implication": "A justified bounded evaluation could produce local safety, functional outcome and whole-life cost evidence, but improved recovery cannot be assumed.",
+  "risk_governance_implication": "Patient harm, inappropriate consent, CT/data workflow failure and unavailable equipment are unacceptable clinical risks until governance, competence, fallback and ownership are verified.",
+  "change_monitoring_triggers": [
+    "At day 90, review documented safety gates, named owners, competency completion and fully funded operating plan before revisiting the verdict.",
+    "Reconsider when new NICE guidance or high-quality comparative knee recovery and cost evidence becomes available.",
+    "Suspend/withhold patient use if clinical incidents, missing service support or incomplete audit records arise."
+  ],
+  "abstention_or_more_information_needed": [
+    "Request signed Mako-specific surgeon and theatre-team competencies plus proctor plan from clinical education lead: without them do not authorize patient procedures.",
+    "Request governance approval, consent and fallback protocol from hospital clinical governance lead: no live-patient decision without these.",
+    "Request whole-life budget, case-volume, maintenance contract and ongoing operational owner from finance/procurement/operations: cannot conclude sustainable adoption."
+  ],
+  "organization_specific_finding": "Application fit: CONDITIONAL/UNPROVEN BETTER PATIENT RECOVERY. Organizational readiness: PREPARED FOR PLANNING ONLY; NOT FOR LIVE PATIENTS. Dimensions: 1. leadership/sponsorship=2 [CASE ASSUMPTION sponsor, not signed decision]; 2. skills/training=1 [MISSING EVIDENCE Mako competencies and proctor]; 3. workflow/process=1 [MISSING EVIDENCE rehearsed fallback]; 4. infrastructure/data=2 [CASE ASSUMPTION CT and audit capability; interface U]; 5. resources/budget=U [MISSING EVIDENCE funded whole-life case]; 6. governance/risk=U [MISSING EVIDENCE local clinical and NICE conditions]; 7. culture/change=2 [CASE ASSUMPTION research-oriented team]; 8. operating ownership=U [MISSING EVIDENCE assigned long-term owner]. Strengths: conventional TKR skills; CT and research/audit infrastructure. Gaps: no robotic competency/proctoring proof; no signed governance and costed service plan. Highest-consequence gap: unverified patient safety/clinical governance approvals, not technology maturity.",
+  "confidence_and_uncertainty": "Medium about comparative logic under hypothetical assumptions; low about a real NHS trust. Withhold patient launch conclusion pending signed competency, local approval and sustainable operating evidence.",
+  "recommendation_management_implication": "1) PREPARE/NO PATIENTS: proposed clinical director and governance committee (VERIFY) obtain signed safety protocol, NICE evidence-generation clearance, consent, proctorship and Mako competency records by day 90; do not launch until complete. 2) PROVE WORKFLOW: proposed theatre/radiology/IT leads (VERIFY) rehearse CT planning/data handoff and robotic-to-conventional conversion, preserve logs. 3) PROVE SUSTAINABILITY: proposed operations/procurement lead (VERIFY) obtain vendor service SLA, whole-life costs, patient volume and named audit owner. 4) ONLY THEN evaluate controlled evidence generation; do not assume 12-month recovery superiority."
+}

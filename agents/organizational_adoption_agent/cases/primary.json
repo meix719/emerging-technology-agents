@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Stryker Mako surgeon-controlled robotic-arm assistance",
+  "intended_application": "Primary elective total knee replacement for adults with advanced symptomatic osteoarthritis; Mako-assisted TKR versus conventional instrumented TKR. Clinical benefit of interest: earlier walking and return to usual activities, while preserving safety; alignment precision alone is not the benefit endpoint.",
+  "industry_sector": "NHS England acute hospital orthopaedic surgery",
+  "business_need": "Determine whether a limited evidence-generating service evaluation is operationally and clinically justified, safe and sustainable rather than assuming robotic accuracy produces better patient recovery.",
+  "users_stakeholders": "Patients; orthopaedic consultants; theatre nurses/first assistants; anaesthetists; physiotherapy/rehabilitation; radiology/CT; IT/data governance; procurement/finance; clinical governance; vendor service personnel.",
+  "risk_consequence_context": "Potential patient harm, interrupted surgery or CT/workflow failure, unnecessary radiation or workflow burden, missed consent/approval/evidence generation obligations, patient data handling, unproven comparative recovery benefit, budget pressure and disruption to elective lists.",
+  "management_question": "Should hospital management prepare or start a limited, monitored Mako-assisted primary TKR evaluation in the next 12 months? What operational gates must be met before any patient procedure, and when should management defer?",
+  "time_horizon": "12 months, initial readiness decision now, formal checkpoint at day 90; no assumption of immediate patient enrolment.",
+  "organization": "Hypothetical Hospital A, large NHS teaching hospital in England with mature elective arthroplasty service and research office.",
+  "adoption_posture": "Moderate evidence-oriented fast follower; leadership open to a controlled study but patient safety and demonstrable clinical benefit take precedence.",
+  "capabilities_constraints": "CASE ASSUMPTIONS, NOT VERIFIED HOSPITAL FACTS: executive clinical sponsor and knee arthroplasty programme exist; surgeons skilled in conventional TKR and a research/audit office exist; on-site CT and outcomes data systems exist; theatre and rehabilitation teams support current knee pathways. Missing/unknown: signed Mako-specific surgeon and full-team competency/proctorship, CT-to-patient-model interface testing, written conversion/fallback SOP, clinical governance permission and evidence-generation enrollment agreement, provider DTAC/regulatory assessment status, vendor 24/7 SLA, named ongoing service/audit owner, capacity/case-volume and fully funded business case.",
+  "additional_context": "Same technology and application as prior Assignment 6. Hospital profile is an invented assessment vignette; score only facts explicitly assumed and mark all hard clinical/procurement gate evidence missing. No live clinical procedures approved."
+}
